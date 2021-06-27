@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-group-in",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Group an object's own and inherited property values according to an indicator function.",
   "license": "Apache-2.0",
   "author": {
