@@ -1,0 +1,38 @@
+{
+  "name": "@stdlib/utils-group-in",
+  "version": "0.0.0",
+  "description": "Group an object's own and inherited property values according to an indicator function.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/utils-group-in.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdutils",
+    "stdutil",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "group",
+    "groupby",
+    "group-by",
+    "aggregate",
+    "partition",
+    "split",
+    "object",
+    "obj",
+    "for-in",
+    "in"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
