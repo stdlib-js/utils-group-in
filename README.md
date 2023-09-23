@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import groupIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-in@esm/index.mjs';
+import groupIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-in@v0.1.0-esm/index.mjs';
 ```
 
 #### groupIn( obj, \[options,] indicator )
@@ -259,7 +259,7 @@ console.log( context.count );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import fromCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-from-code-point@esm/index.mjs';
-import groupIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-in@esm/index.mjs';
+import groupIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-in@v0.1.0-esm/index.mjs';
 
 var key;
 var obj;
