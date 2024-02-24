@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import groupIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-in@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-group-in/tags). For example,
+
+```javascript
 import groupIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-in@v0.2.1-deno/mod.js';
 ```
 
@@ -254,7 +259,7 @@ console.log( context.count );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import fromCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-from-code-point@deno/mod.js';
-import groupIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-in@v0.2.1-deno/mod.js';
+import groupIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-in@deno/mod.js';
 
 var key;
 var obj;
