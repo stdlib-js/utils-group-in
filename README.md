@@ -329,7 +329,7 @@ console.log( out );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/utils-bifurcate-in`][@stdlib/utils/bifurcate-in]</span><span class="delimiter">: </span><span class="description">split an object's own and inherited property values into two groups according to a predicate function.</span>
+-   <span class="package-name">[`@stdlib/object-bifurcate-in`][@stdlib/object/bifurcate-in]</span><span class="delimiter">: </span><span class="description">split an object's own and inherited property values into two groups according to a predicate function.</span>
 -   <span class="package-name">[`@stdlib/utils-group-by`][@stdlib/utils/group-by]</span><span class="delimiter">: </span><span class="description">group values according to an indicator function.</span>
 -   <span class="package-name">[`@stdlib/utils-group-own`][@stdlib/utils/group-own]</span><span class="delimiter">: </span><span class="description">group an object's own property values according to an indicator function.</span>
 
@@ -363,7 +363,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -389,8 +389,8 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 -->
 
-[chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
+[chat-image]: https://img.shields.io/badge/zulip-join_chat-brightgreen.svg
+[chat-url]: https://stdlib.zulipchat.com
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
@@ -413,7 +413,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/utils/bifurcate-in]: https://github.com/stdlib-js/utils-bifurcate-in
+[@stdlib/object/bifurcate-in]: https://github.com/stdlib-js/object-bifurcate-in
 
 [@stdlib/utils/group-by]: https://github.com/stdlib-js/utils-group-by
 
