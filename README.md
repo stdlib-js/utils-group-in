@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import groupIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-in@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-group-in/tags). For example,
+
+```javascript
 import groupIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-in@v0.2.3-esm/index.mjs';
 ```
 
@@ -259,7 +264,7 @@ console.log( context.count );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import fromCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-from-code-point@esm/index.mjs';
-import groupIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-in@v0.2.3-esm/index.mjs';
+import groupIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-in@esm/index.mjs';
 
 var key;
 var obj;
